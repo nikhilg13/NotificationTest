@@ -9,25 +9,25 @@
         <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-b72f78db8868e8b5e384b1327a4f1209429b40ff.jar" />
     </item>
     <item
-        jar="/home/nikhilg/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-e177cd73edb0720c2788fda6d9774a648333a5b1.jar" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-0ac4720827350be555af9228214edb81822432b5.jar" />
     </item>
     <item
-        jar="/home/nikhilg/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jar="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/gson-2.3.1-cf58820be15de5b38295f53019d198c12fa044df.jar" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-9a728f930c1586273fc5bd9402a210f0a7940bd2.jar" />
     </item>
     <item
-        jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jar="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
-        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-147fc269e84be3d2813a889f16cebe0ec0a8d6f1.jar" />
+        <dex dex="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-22b31b6b4e1bbda59eb64f5f53fe9e500770c0b9.jar" />
     </item>
     <item
         jar="/home/nikhilg/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
@@ -37,11 +37,46 @@
         <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-98f7521e420b18a9d82e88c048ce03544884af32.jar" />
     </item>
     <item
-        jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-0ac4720827350be555af9228214edb81822432b5.jar" />
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-147fc269e84be3d2813a889f16cebe0ec0a8d6f1.jar" />
+    </item>
+    <item
+        jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0713ea6aa9d083973cb7ebc182141fc8cd3cb10b.jar" />
+    </item>
+    <item
+        jar="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-0f127e1b5c16e070c3db0d85691270574ec47aec.jar" />
+    </item>
+    <item
+        jar="/home/nikhilg/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/gson-2.3.1-cf58820be15de5b38295f53019d198c12fa044df.jar" />
+    </item>
+    <item
+        jar="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-c68baeaccc9e698e3fb89a81615550faf36b81ae.jar" />
+    </item>
+    <item
+        jar="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/nikhilg/NotificationDummy/NotificationTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8c484f930b65be62e1d501447594977d839c90c3.jar" />
     </item>
     <item
         jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
@@ -51,11 +86,11 @@
         <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/classes-1d8620c5c8ead86dc7f4597d48f04720cd18c04f.jar" />
     </item>
     <item
-        jar="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/home/nikhilg/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0713ea6aa9d083973cb7ebc182141fc8cd3cb10b.jar" />
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/nikhilg/AndroidStudioProjects/NotificationTest/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-e177cd73edb0720c2788fda6d9774a648333a5b1.jar" />
     </item>
 
 </items>
