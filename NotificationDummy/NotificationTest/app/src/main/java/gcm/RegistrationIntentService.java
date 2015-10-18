@@ -17,7 +17,6 @@ import java.io.IOException;
 public class RegistrationIntentService extends IntentService {
 
     private static final String TAG = "RegistrationIntentService";
-    private static final String[] TOPICS = {"global"};
 
     public RegistrationIntentService() {
         super(TAG);
@@ -41,14 +40,6 @@ public class RegistrationIntentService extends IntentService {
             // TODO: Implement this method to send any registration to your app's servers.
            // sendRegistrationToServer(token);
 
-            // Subscribe to topic channels
-           // subscribeTopics(token);
-
-            // You should store a boolean that indicates whether the generated token has been
-            // sent to your server. If the boolean is false, send the token to your server,
-            // otherwise your server should have already received the token.
-          //  sharedPreferences.edit().putBoolean(QuickstartPreferences.SENT_TOKEN_TO_SERVER, true).apply();
-            // [END register_for_gcm]
         } catch (Exception e) {
             Log.d(TAG, "Failed to complete token refresh", e);
             // If an exception happens while fetching the new token or updating our registration data
